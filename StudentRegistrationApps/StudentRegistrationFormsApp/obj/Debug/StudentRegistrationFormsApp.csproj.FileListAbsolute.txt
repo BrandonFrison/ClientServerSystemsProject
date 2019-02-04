@@ -1,0 +1,17 @@
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 10\StudentRegistrationApps\StudentRegistrationFormsApp\bin\Debug\StudentRegistrationFormsApp.exe.config
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 10\StudentRegistrationApps\StudentRegistrationFormsApp\bin\Debug\StudentRegistrationFormsApp.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 10\StudentRegistrationApps\StudentRegistrationFormsApp\bin\Debug\StudentRegistrationFormsApp.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 10\StudentRegistrationApps\StudentRegistrationFormsApp\bin\Debug\EntityFramework.dll
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 10\StudentRegistrationApps\StudentRegistrationFormsApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 10\StudentRegistrationApps\StudentRegistrationFormsApp\bin\Debug\EntityFramework.xml
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 10\StudentRegistrationApps\StudentRegistrationFormsApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 10\StudentRegistrationApps\StudentRegistrationFormsApp\obj\Debug\StudentRegistrationFormsApp.csprojResolveAssemblyReference.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 10\StudentRegistrationApps\StudentRegistrationFormsApp\obj\Debug\StudentRegistrationFormsApp.FormStudentRegistration.resources
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 10\StudentRegistrationApps\StudentRegistrationFormsApp\obj\Debug\StudentRegistrationFormsApp.Properties.Resources.resources
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 10\StudentRegistrationApps\StudentRegistrationFormsApp\obj\Debug\StudentRegistrationFormsApp.csproj.GenerateResource.Cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 10\StudentRegistrationApps\StudentRegistrationFormsApp\obj\Debug\StudentRegistrationFormsApp.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 10\StudentRegistrationApps\StudentRegistrationFormsApp\obj\Debug\StudentRegistrationFormsApp.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 10\StudentRegistrationApps\StudentRegistrationFormsApp\obj\Debug\StudentRegistrationFormsApp.AddStudentForm.resources
+H:\School\ClientServerAssignment\StudentRegistrationApps\StudentRegistrationFormsApp\bin\Debug\StudentRegistrationFormsApp.exe.config
+H:\School\ClientServerAssignment\StudentRegistrationApps\StudentRegistrationFormsApp\obj\Debug\StudentRegistrationFormsApp.exe
+H:\School\ClientServerAssignment\StudentRegistrationApps\StudentRegistrationFormsApp\obj\Debug\StudentRegistrationFormsApp.pdb

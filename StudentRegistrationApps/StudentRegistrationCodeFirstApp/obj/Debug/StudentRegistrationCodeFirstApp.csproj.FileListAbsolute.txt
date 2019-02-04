@@ -1,0 +1,15 @@
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 10\StudentRegistrationApps\StudentRegistrationCodeFirstApp\bin\Debug\StudentRegistrationCodeFirstApp.exe.config
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 10\StudentRegistrationApps\StudentRegistrationCodeFirstApp\bin\Debug\StudentRegistrationCodeFirstApp.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 10\StudentRegistrationApps\StudentRegistrationCodeFirstApp\bin\Debug\StudentRegistrationCodeFirstApp.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 10\StudentRegistrationApps\StudentRegistrationCodeFirstApp\bin\Debug\EntityFramework.dll
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 10\StudentRegistrationApps\StudentRegistrationCodeFirstApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 10\StudentRegistrationApps\StudentRegistrationCodeFirstApp\bin\Debug\EntityFramework.xml
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 10\StudentRegistrationApps\StudentRegistrationCodeFirstApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 10\StudentRegistrationApps\StudentRegistrationCodeFirstApp\obj\Debug\StudentRegistrationCodeFirstApp.csprojResolveAssemblyReference.cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 10\StudentRegistrationApps\StudentRegistrationCodeFirstApp\obj\Debug\StudentRegistrationCodeFirstApp.Properties.Resources.resources
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 10\StudentRegistrationApps\StudentRegistrationCodeFirstApp\obj\Debug\StudentRegistrationCodeFirstApp.csproj.GenerateResource.Cache
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 10\StudentRegistrationApps\StudentRegistrationCodeFirstApp\obj\Debug\StudentRegistrationCodeFirstApp.exe
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 10\StudentRegistrationApps\StudentRegistrationCodeFirstApp\obj\Debug\StudentRegistrationCodeFirstApp.pdb
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 10\StudentRegistrationApps\StudentRegistrationCodeFirstApp\obj\Debug\StudentRegistrationCodeFirstApp.Migrations.TimeStamps.resources
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 10\StudentRegistrationApps\StudentRegistrationCodeFirstApp\obj\Debug\StudentRegistrationCodeFirstApp.StudentRegistrationMainAppForm.resources
+C:\Users\mhrybyk\OneDrive\Documents\CSIS 3540\Exercises\Class 10\StudentRegistrationApps\StudentRegistrationCodeFirstApp\obj\Debug\StudentRegistrationCodeFirstApp.Migrations.TimeStamps1.resources

@@ -1,0 +1,29 @@
+=============================
+INSTRUCTIONS
+=============================
+Open the solution file and set the database project as start up project.
+Click start to create the tables of the database.
+Set the ProjectTeam08HospitalWFA as start up project and run.
+Upon first run just click the Seed database button to populate the database, the button will then hide. 
+for all other runs the button will be hidden as well so you can't erase any new entries. 
+
+for the menu there is a login screen where you can click the admin or user buttons to bring up additional pages.
+The doctor ( admin ) login information is :
+user name : admin
+password : password123
+
+From the admin screen you can add new medicine, patients and prescriptions using the buttons.
+for patients you must enter integers as the medical card number, the date of birth must be in format YYYY-MM-DD
+the room number must be a room that already exists. the easiest room number will be 1234.
+
+The new medicine is simple you just enter a string as the name and any integer for the num in stock.
+
+The new prescription you must use existing Patient ID, Doctor ID and Medicine ID values. Prescription ID will auto generate.
+
+From here you can enter numbers in the text boxes and filter the prescriptions datagridview by clicking the button beside the inputs.
+This can be used if a Medicine had some bad functionality or side effect then they could look up all prescriptions associated with the medicine and find patients affected.
+
+From the admin tab you can then click switch to user view or just click the exit button and relaunch the app then click login as patient.
+User view is simple you just enter a patient ID and you can see all of that patients prescriptions, their doctors and any medicine used.
+
+Use the exit buttons to make sure the app is no longer running in the background when done.

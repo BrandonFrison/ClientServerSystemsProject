@@ -1,0 +1,9 @@
+H:\School\ClientServerAssignment\AS1ProjectTeam08\AS1ProjectTeam08\bin\Debug\AS1ProjectTeam08.exe.config
+H:\School\ClientServerAssignment\AS1ProjectTeam08\AS1ProjectTeam08\bin\Debug\AS1ProjectTeam08.exe
+H:\School\ClientServerAssignment\AS1ProjectTeam08\AS1ProjectTeam08\bin\Debug\AS1ProjectTeam08.pdb
+H:\School\ClientServerAssignment\AS1ProjectTeam08\AS1ProjectTeam08\obj\Debug\AS1ProjectTeam08.csprojResolveAssemblyReference.cache
+H:\School\ClientServerAssignment\AS1ProjectTeam08\AS1ProjectTeam08\obj\Debug\AS1ProjectTeam08.FormHousePurchase.resources
+H:\School\ClientServerAssignment\AS1ProjectTeam08\AS1ProjectTeam08\obj\Debug\AS1ProjectTeam08.Properties.Resources.resources
+H:\School\ClientServerAssignment\AS1ProjectTeam08\AS1ProjectTeam08\obj\Debug\AS1ProjectTeam08.csproj.GenerateResource.Cache
+H:\School\ClientServerAssignment\AS1ProjectTeam08\AS1ProjectTeam08\obj\Debug\AS1ProjectTeam08.exe
+H:\School\ClientServerAssignment\AS1ProjectTeam08\AS1ProjectTeam08\obj\Debug\AS1ProjectTeam08.pdb
